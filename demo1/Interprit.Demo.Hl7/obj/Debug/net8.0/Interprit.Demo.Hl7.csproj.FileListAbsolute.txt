@@ -1,0 +1,12 @@
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\bin\Debug\net8.0\Interprit.Demo.Hl7.deps.json
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\bin\Debug\net8.0\Interprit.Demo.Hl7.dll
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\bin\Debug\net8.0\Interprit.Demo.Hl7.pdb
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\obj\Debug\net8.0\Interprit.Demo.Hl7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\obj\Debug\net8.0\Interprit.Demo.Hl7.AssemblyInfoInputs.cache
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\obj\Debug\net8.0\Interprit.Demo.Hl7.AssemblyInfo.cs
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\obj\Debug\net8.0\Interprit.Demo.Hl7.csproj.CoreCompileInputs.cache
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\obj\Debug\net8.0\Interprit.Demo.Hl7.sourcelink.json
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\obj\Debug\net8.0\Interprit.Demo.Hl7.dll
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\obj\Debug\net8.0\refint\Interprit.Demo.Hl7.dll
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\obj\Debug\net8.0\Interprit.Demo.Hl7.pdb
+C:\Src\hl7-logicapp-demo\demo1\Interprit.Demo.Hl7\obj\Debug\net8.0\ref\Interprit.Demo.Hl7.dll

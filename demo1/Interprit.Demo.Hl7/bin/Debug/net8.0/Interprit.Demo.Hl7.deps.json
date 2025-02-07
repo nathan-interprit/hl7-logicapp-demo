@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Interprit.Demo.Hl7/1.0.0": {
+        "runtime": {
+          "Interprit.Demo.Hl7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interprit.Demo.Hl7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

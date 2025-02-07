@@ -51,4 +51,7 @@
   <ItemGroup>
     <Folder Include="bin\$(Configuration)\net8\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Interprit.Demo.Hl7\Interprit.Demo.Hl7.csproj" />
+  </ItemGroup>
 </Project>
