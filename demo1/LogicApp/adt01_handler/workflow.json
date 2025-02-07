@@ -6,10 +6,8 @@
         "type": "InvokeFunction",
         "inputs": {
           "functionName": "hl7",
-          "parameters": {
-            "zipCode": 85396,
-            "temperatureScale": "Celsius"
-          }
+          "parameters": "@body('When_a_HTTP_request_is_received')"
+          
         },
         "runAfter": {}
       },
